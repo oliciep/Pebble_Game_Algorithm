@@ -10,7 +10,7 @@ This project is designed to solve the classic pebble game or 'game of odds' conu
 
 
 ## Acknowledgements
-Here is a description of the algorithm tackled:
+Here is a description of the algorithm described:
  - [Wikipedia](https://en.wikipedia.org/wiki/Pebble_game)
 
 
