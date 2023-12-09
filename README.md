@@ -1,6 +1,6 @@
 # Pebble Game Algorithm
 
-This project is designed to solve the classic pebble game or 'game of odds' problem. I created this project using java, and it contains multiple test cases to experiment upon with different values to test the algorithm.
+This project is designed to solve the classic pebble game or 'game of odds' problem. I created this project using java, and it contains multiple test cases to experiment upon with different values to test the algorithm. 
 
 
 ## Features
@@ -10,7 +10,7 @@ This project is designed to solve the classic pebble game or 'game of odds' prob
 
 
 ## Acknowledgements
-Here is a description of the algorithm described:
+Here is a description of the problem described:
  - [Wikipedia](https://en.wikipedia.org/wiki/Pebble_game)
 
 
