@@ -7,7 +7,7 @@ This project is designed to solve the classic pebble game or 'game of odds' prob
 
 - Java backend to solve the pebble game problem.
 - Multiple test files to validate the algorithm.
-
+- Original algorithm files to verify
 
 ## Acknowledgements
 Here is a description of the problem described:
